@@ -29,5 +29,5 @@ Este é um projeto desenvolvido como parte do **Desafio Backend da Alura com Jav
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas.git
+   git clone https://github.com/ErickGabriel4/conversor-moedas.git
    cd conversor-moedas
